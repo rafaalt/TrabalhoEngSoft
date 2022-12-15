@@ -1,6 +1,6 @@
 ## um pouco sobre o projeto
 
-Sistema para gerenciamento de clínicas médicas desenvolvidos para a disciplina de Laboratorio De Engenharia De Software. Com a implementação de algumas funcionalidades como simples cadastro de pacientes, funcionarios, endereços, agendamento de consultas entre outros. 
+Sistema para gerenciamento de clínicas médicas desenvolvidos para a disciplina de Laboratorio De Engenharia De Software com a implementação de algumas funcionalidades  simples como cadastro de pacientes, funcionarios, endereços, agendamento de consultas entre outros. 
 
 ## instalação
 
